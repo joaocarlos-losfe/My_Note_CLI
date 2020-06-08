@@ -1,0 +1,41 @@
+	//Mural mural[100];
+    /*
+    mural[0].mural_nmr_notas = 0;
+    mural[0].mural_titulo = "titulo 1";
+    mural[0].mural_id = 0; // id do mural 1;
+    mural[0].mural_nmr_notas = 0; // numero de notas atuais do mural
+    
+    mural[0].notas[0].nota_titulo = "titulo nota 1 do mural 1";
+    mural[0].notas[0].nota_texto = "texto da nota 1 do mural 1";
+    mural[0].notas[0].nota_id = 0; //id do mural 1
+    
+    mural[0].mural_nmr_notas+=1; // numero de notas do mural 1 passa a ser 1
+    
+    //nova nota para o mural 1
+    
+    mural[0].notas[1].nota_titulo = "titulo nota 2"; // nova nota do mural
+    mural[0].notas[1].nota_texto = "texto da nota 2";
+    mural[0].notas[1].nota_id = 1; // nova nota possui um novo id
+    
+    mural[0].mural_nmr_notas+=1; // numero de notas do mural 1 passa a ser 2
+    
+    nmr_mural_criados += 1; //existe agora 1 mural criado com 2 notas
+    
+    //segundo mural
+
+	mural[1].mural_nmr_notas = 0; 
+    mural[1].mural_titulo = "titulo 2";
+    mural[1].mural_id = 1 ; // id do mural 2;
+    mural[1].mural_nmr_notas = 0; // numero de notas atuais do mural
+    
+    mural[1].notas[0].nota_titulo = "titulo nota 1 do mural 2";
+    mural[1].notas[0].nota_texto = "texto da nota 1 do mural 2";
+    mural[1].notas[0].nota_id = 0; //id do mural 2
+	
+	mural[0].mural_nmr_notas+=1; // numero de notas do mural 2 passa a ser 1  
+    
+    
+    nmr_mural_criados += 1; //existe agora 2 murais criados com 2 notas pro primeiro, 
+							// e uma nota no segundo
+    //
+    */
